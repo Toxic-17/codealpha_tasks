@@ -39,7 +39,7 @@ driven, fuel type, seller type, transmission, and ownership history.
 └── README.md
 ```
 
-### ▶ How to run
+###  How to run
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn jupyter openpyxl
 jupyter notebook Car_Price_Prediction.ipynb
